@@ -1,0 +1,37 @@
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis-title {
+    fill: none;
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
+
+.axis--x path {
+    /*display: none;*/
+}
+
+.line {
+    fill: none;
+    stroke: green;
+    stroke-width: 1.5px;
+}
+.line_2 {
+    fill: none;
+    stroke: rgb(54, 54, 56);
+    stroke-width: 1.5px;
+}
+.line_3 {
+    fill: none;
+    stroke: rgb(102, 23, 177);
+    stroke-width: 1.5px;
+}
